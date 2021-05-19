@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30435465224",
+    "project_id": "qantra-e0b1d",
+    "storage_bucket": "qantra-e0b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30435465224:android:d6f50dd92c97e42181d9bd",
+        "android_client_info": {
+          "package_name": "com.example.qantra_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30435465224-r0ucjp85vmdvndcjs8kiaj9f9orngb8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAReGhLfBFzz10f8Vdm5-n3wx9lJp-8bQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30435465224-r0ucjp85vmdvndcjs8kiaj9f9orngb8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
